@@ -1,0 +1,8 @@
+* {
+    font-family: {{fontFamily}}, sans-serif;
+    color: {{fontColor}};
+    font-size: {{fontSize}}px;
+    font-weight: {{fontWeight}};
+    text-shadow: {{textShadowColor}} {{textShadowSize}};
+    overflow: hidden;
+}
